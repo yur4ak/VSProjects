@@ -1,1 +1,14 @@
 {
+	"folders": [
+		{
+			"name": "C_Projects",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"cmath": "cpp"
+		}
+	}
+}
